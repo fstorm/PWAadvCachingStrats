@@ -1,0 +1,11 @@
+.box {
+  margin: auto;
+  width: 100px;
+  height: 200px;
+  background-color: #fa3ff4;
+  display: none;
+}
+
+.box.visible {
+  display: block;
+}
